@@ -1,5 +1,5 @@
-# Interview_qa
-job interview
+# Job Interview_QA
+
 # Чек-лист “Темы для собеседований”
 
 > ©[Татьяна Лабчук](https://www.linkedin.com/in/tlabchuk/)
