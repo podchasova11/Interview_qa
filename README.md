@@ -5,7 +5,7 @@
 
 
 > ©[Татьяна Лабчук](https://www.linkedin.com/in/tlabchuk/)
-Автор telegram-канала “[Заметки о QA](https://t.me/notes_about_QA)”
+“[Заметки о QA](https://t.me/notes_about_QA)”
 > 
 - [ ]  **методологии разработки и место QA в этом процессе**
     - [ ]  методологии разработки
