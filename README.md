@@ -3,6 +3,7 @@
 
 # Чек-лист “Темы для собеседований”
 
+
 > ©[Татьяна Лабчук](https://www.linkedin.com/in/tlabchuk/)
 Автор telegram-канала “[Заметки о QA](https://t.me/notes_about_QA)”
 > 
